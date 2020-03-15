@@ -2,6 +2,6 @@
 
 Repository for learning GitHub.
 
-Avoiding early mistakes is always a better approach to do thing the way it should be. Learn the process of
-GitHub before using it for your serious projects. 
+Avoiding early mistakes is always a better approach to do things the way it should be. Before using it for your serious projects, 
+it's encouraging to learn the process of GitHub 
 
